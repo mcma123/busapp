@@ -1,0 +1,13 @@
+{
+  "name": "Koot Niemann School Transport · Driver",
+  "short_name": "KN Driver",
+  "start_url": "/driver",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#151A43",
+  "theme_color": "#151A43",
+  "icons": [
+    { "src": "/logo.jpg", "sizes": "160x148", "type": "image/jpeg", "purpose": "any" }
+  ]
+}
